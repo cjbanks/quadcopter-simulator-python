@@ -11,7 +11,13 @@ necessary package requirements)
 1. **cd quadcopter-simulator-python/**
 1. **python3 -m examples.[filename]** (run the files in the examples/ directory using this command)
 
-To run your own simulations using this simulator:
+
+If you choose to use the simulator without using conda, or the conda text file, download the following packages:
+* python=3.5
+* numpy=1.15.2
+* matplotlib=3.0
+* cvxopt=1.2
+* control=0.8.2
 
 
 
